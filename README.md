@@ -1,4 +1,4 @@
-# Vue CSV ManageR
+# Vue CSV Manager
 
 Este projeto é um manipulador de arquivos CSV, simplificando a importação e exportação de dados tabulares. Você pode importar um arquivo CSV existente e, em seguida, realizar operações de manipulação de dados. Por fim, você pode exportar os dados conforme suas preferências.
 
@@ -33,7 +33,7 @@ Ao clicar em 'Importar CSV', um modal será aberto para o upload de uma tabela C
 
 Após a conclusão da importação da tabela, você será redirecionado para a tela de visualização e manipulação da tabela importada.
 
-Tabela para ser usada de exemplo: [Tabela]([https://www.linkedin.com/in/mariana-rosa-dev/](https://docs.google.com/spreadsheets/d/1Ab0XGkgZ7rQ6JMTQXBQbJJuhbHAbkIahVv0lKfQPg5g/edit?usp=sharing)) 😊
+Tabela para ser usada de exemplo: [Tabela](https://docs.google.com/spreadsheets/d/1Ab0XGkgZ7rQ6JMTQXBQbJJuhbHAbkIahVv0lKfQPg5g/edit?usp=sharing)
 
 ## Bom teste!
 
