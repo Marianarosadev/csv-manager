@@ -27,7 +27,7 @@ npm run dev
 ```
 ## ⚙️ Executando os testes
 
-Após executar o projeto e a API, é possível acessar a tela inicial na rota '/', onde a tabela de registro das importações de arquivos é exibida.
+Após executar o projeto, é possível acessar a tela inicial na rota '/', onde a tabela de registro das importações de arquivos é exibida.
 
 Ao clicar em 'Importar CSV', um modal será aberto para o upload de uma tabela CSV válida.
 
