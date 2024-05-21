@@ -1,0 +1,29 @@
+// Color Palette
+$primary-color: #3498db;
+$secondary-color: #f4f4f4;
+$accent-color: #e74c3c;
+$background-color: #f4f4f4;
+$text-color: #202123;
+$white-color: #ffffff;
+$info: #0273C3;
+
+// Typography
+$font-family-base: 'Roboto', sans-serif;
+$font-size-base: 14px;
+$font-size-small: 12px;
+$font-size-large: 20px;
+$line-height-base: 1.5;
+$font-weight-normal: 400;
+$font-weight-bold: 700;
+
+// Spacing
+$spacing-unit: 8px;
+$spacing-small: $spacing-unit * 0.5;
+$spacing-medium: $spacing-unit;
+$spacing-large: $spacing-unit * 2;
+
+// Breakpoints
+$breakpoint-xs: 480px;
+$breakpoint-sm: 768px;
+$breakpoint-md: 992px;
+$breakpoint-lg: 1200px;
